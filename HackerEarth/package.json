@@ -1,5 +1,5 @@
 {
     "dependencies" : {
-        "mathjs" : "3.2.0"
+        "mathjs" : "3.17.0"
     }
 }
